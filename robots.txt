@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://orbitr-fixture-site.pages.dev/sitemap.xml
+Sitemap: https://orbitr-fixture-site.demarioasquitt.workers.dev/sitemap.xml
